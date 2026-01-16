@@ -1,0 +1,10 @@
+build:
+  version: cards.prod 1.0
+  
+cards:
+  number: 1900 1900 1800
+  details:
+    name: Rajat-prod
+    type: VISA-prod
+  contactNumber:
+     -+91 98381554889

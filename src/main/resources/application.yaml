@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: config-server
+  profiles:
+#    active: native
+     active: git
+  cloud:
+    config:
+      server:
+         git:
+          uri:  https://github.com/rajatkukeja/config-server
+          default-label: main
+          timeout: 5
+          clone-on-start: true
+          force-pull: true
+#        native:
+#          search-locations: file:///C://Users//config
+         # - 'classpath:/config'
+server:
+  port: 8071
+  
+encrypt:
+  key: n57bvHPWfXKmLM/B/eefug==

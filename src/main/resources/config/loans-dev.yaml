@@ -1,0 +1,8 @@
+build:
+  version: dev-loans 1.0
+loans:
+  number: 19L780dev
+  loanDetails:
+    loadHolder: Rajat
+    loanType: HOME dev
+  Address: 13/64 A govind nagar

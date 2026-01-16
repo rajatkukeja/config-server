@@ -1,0 +1,10 @@
+build:
+  version: 1.0
+accounts:
+  message: "Welcome to EazyBank accounts related to DEV APIs"
+  contactDetails:
+    name: "Rajat-DEV"
+    emai: rajat.dev@gmail.com
+  onCallSupport:
+    -(555) 5555-1234
+    -(555) 5555-1345

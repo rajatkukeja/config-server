@@ -1,0 +1,8 @@
+build:
+  version: default-loans 1.0
+loans:
+  number: 19L780Defaut
+  loanDetails:
+    loadHolder: Rajat
+    loanType: HOME Default
+  Address: 13/64 A govind nagar

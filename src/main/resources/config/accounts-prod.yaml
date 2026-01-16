@@ -1,0 +1,10 @@
+build:
+  version: 2.0
+accounts:
+  message: "Welcome to EazyBank accounts related to Prod APIs"
+  contactDetails:
+    name: "Rajat.Prod"
+    emai: "{cipher}2534dfff4ea8a6fd057fa6d77b29ce9f7ddb7ea525529f1e4cb3bbf5d86baf22d04162d1842eb1095ebae6607fba679a"
+  onCallSupport:
+    -(555) 5555-1234
+    -(555) 5555-1345
